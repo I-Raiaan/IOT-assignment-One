@@ -18,10 +18,10 @@ The game loop runs indefinitely, and the speed of the game is controlled by the 
 
 To play the game, follow these steps:
 
-1. Go to the Microbit Python Editor website (https://python.microbit.org/v/2.0).
-2. Create a new project and copy and paste the code from this repository into the editor.
-3. Save the code to your Microbit device.
-4. Press the reset button on your Microbit to start the game.
+1. Download the "dodge_the_obstacles.hex" file from this repository.
+2. Connect your Microbit device to your computer using a USB cable.
+3. Drag and drop the "dodge_the_obstacles.hex" file onto the Microbit device.
+4. Disconnect the Microbit from your computer and press the reset button on your Microbit to start the game.
 
 ## Credits
 
